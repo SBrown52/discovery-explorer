@@ -1,0 +1,9 @@
+{
+  "name": "discovery-explorer",
+  "version": "0.0.1",
+  "description": "Print list of measures/dimensions from a cube discovery",
+  "author": "SBrown52",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
